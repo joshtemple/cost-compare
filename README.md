@@ -7,3 +7,6 @@ The costs are tied to a location, which can be set as desired.
 ### Why did you build this?
 Guroo has a great service, which is powered by work done by the [Health Care Cost Institute (HCCI)](http://www.healthcostinstitute.org/).
 I wanted to use the cost data from the service for my own research, so I reverse-engineered their API format and built a simple client for it.
+
+### How do I use this?
+See this [Jupyter Notebook](https://github.com/joshtemple/cost-compare/blob/master/guroo-client.ipynb) for an example of how to use the client.
